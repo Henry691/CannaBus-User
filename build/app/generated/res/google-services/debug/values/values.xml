@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">321470806559-leq3oirgih2169mpauclp3njoolc67fk.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://cannabus-36fc8.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">321470806559</string>
+    <string name="google_api_key" translatable="false">AIzaSyDiTCflpz0-ci7IetCor5o_dXashe_nKoQ</string>
+    <string name="google_app_id" translatable="false">1:321470806559:android:bb02a01f4766e979d4b32a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDiTCflpz0-ci7IetCor5o_dXashe_nKoQ</string>
+    <string name="google_storage_bucket" translatable="false">cannabus-36fc8.appspot.com</string>
+    <string name="project_id" translatable="false">cannabus-36fc8</string>
+</resources>
